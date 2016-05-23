@@ -1,0 +1,11 @@
+C:\Users\bakhtiyar\Documents\Visual Studio 2010\Projects\DataBaseConnectionPractice\DataBaseConnectionPractice\bin\Debug\bk.accdb
+C:\Users\bakhtiyar\Documents\Visual Studio 2010\Projects\DataBaseConnectionPractice\DataBaseConnectionPractice\bin\Debug\DataBaseConnectionPractice.exe.config
+C:\Users\bakhtiyar\Documents\Visual Studio 2010\Projects\DataBaseConnectionPractice\DataBaseConnectionPractice\bin\Debug\DataBaseConnectionPractice.exe
+C:\Users\bakhtiyar\Documents\Visual Studio 2010\Projects\DataBaseConnectionPractice\DataBaseConnectionPractice\bin\Debug\DataBaseConnectionPractice.pdb
+C:\Users\bakhtiyar\Documents\Visual Studio 2010\Projects\DataBaseConnectionPractice\DataBaseConnectionPractice\obj\x86\Debug\DataBaseConnectionPractice.Form1.resources
+C:\Users\bakhtiyar\Documents\Visual Studio 2010\Projects\DataBaseConnectionPractice\DataBaseConnectionPractice\obj\x86\Debug\DataBaseConnectionPractice.Properties.Resources.resources
+C:\Users\bakhtiyar\Documents\Visual Studio 2010\Projects\DataBaseConnectionPractice\DataBaseConnectionPractice\obj\x86\Debug\DataBaseConnectionPractice.csproj.GenerateResource.Cache
+C:\Users\bakhtiyar\Documents\Visual Studio 2010\Projects\DataBaseConnectionPractice\DataBaseConnectionPractice\obj\x86\Debug\DataBaseConnectionPractice.exe
+C:\Users\bakhtiyar\Documents\Visual Studio 2010\Projects\DataBaseConnectionPractice\DataBaseConnectionPractice\obj\x86\Debug\DataBaseConnectionPractice.pdb
+C:\Users\bakhtiyar\documents\visual studio 2010\Projects\DataBaseConnectionPractice\DataBaseConnectionPractice\obj\x86\Debug\DataBaseConnectionPractice.LoginForEmploy.resources
+C:\Users\bakhtiyar\Documents\Visual Studio 2010\Projects\DataBaseConnectionPractice\DataBaseConnectionPractice\obj\x86\Debug\DataBaseConnectionPractice.csprojResolveAssemblyReference.cache
